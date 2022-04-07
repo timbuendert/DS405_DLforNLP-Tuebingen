@@ -1,2 +1,2 @@
-# DS405_DLforNLP-Tuebingen
- Code associated with the course "Practical DL for Language Processing"
+# DS405 Practical Deep Learning for Language Processing
+This repository containts the code associated with the assignments of the course "Practical Deep Learning for Language Processing". Amongst others, topics include word vectors, (pre-trained) word embeddings, (bi-)directional RNNs includings LSTMs and GRUs, (S)BERT, Question Answering models and the Transformer architecure with its decoder and encoder part. The corresponding practical exercises were implemented using PyTorch and Jupyter Notebooks.
